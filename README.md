@@ -1,0 +1,1 @@
+Welcome to Najua. This is an AI-Powered bot using the OpenAI API. Najua has the ability to convert natural language questions to code and still give you a wide range of responses.
